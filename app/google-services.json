@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "650322565347",
+    "firebase_url": "https://easy-form-43140.firebaseio.com",
+    "project_id": "easy-form-43140",
+    "storage_bucket": "easy-form-43140.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650322565347:android:c20469701022e8ef544dd6",
+        "android_client_info": {
+          "package_name": "net.EasyForm.version1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "650322565347-gp24o4jc1uo3mdbgbu4tavqijqurdrgs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABhAVKCOkGp_eGDjbYc4nwtLAgAM8vIp0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "650322565347-gp24o4jc1uo3mdbgbu4tavqijqurdrgs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

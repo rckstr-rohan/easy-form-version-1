@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">650322565347-gp24o4jc1uo3mdbgbu4tavqijqurdrgs.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://easy-form-43140.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">650322565347</string>
+    <string name="google_api_key" translatable="false">AIzaSyABhAVKCOkGp_eGDjbYc4nwtLAgAM8vIp0</string>
+    <string name="google_app_id" translatable="false">1:650322565347:android:c20469701022e8ef544dd6</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyABhAVKCOkGp_eGDjbYc4nwtLAgAM8vIp0</string>
+    <string name="google_storage_bucket" translatable="false">easy-form-43140.appspot.com</string>
+    <string name="project_id" translatable="false">easy-form-43140</string>
+</resources>
